@@ -1,0 +1,27 @@
+h1{
+    color: #0D0F0E;
+    background-color: #C13699;
+}
+
+h2,h3,h4 {
+    color:red;
+    background-color: black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+body{
+    background-color: #BF5C06;
+}
+
+.abc{
+    background-color: red;
+    columns: white;
+}
+
+#xyz{
+    background-color: #BF5C06;
+    color:black;
+}
+
+p>b{
+    color:white;
+}
