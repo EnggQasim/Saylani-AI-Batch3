@@ -1,0 +1,71 @@
+{
+  "id": "0d32a250-f85a-11ec-a111-c956c759ead9",
+  "type": "chat",
+  "pageId": "5db130a5df22d91339a0c321",
+  "visitor": {
+    "name": "Hassan Sardar",
+    "id": "49368169cabf1b1c7dc51651026bf45378bb0b24e7486997a386d98ece6dcfc7",
+    "email": "hassansardar620@gmail.com"
+  },
+  "location": {
+    "countryCode": "PK",
+    "city": "Lahore"
+  },
+  "messageCount": 4,
+  "chatDuration": 411,
+  "rating": 0,
+  "createdOn": "2022-06-30T09:50:54.436Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:50:54.436Z",
+      "msg": "Welcome to our site, if you need help simply reply to this message, we are online and ready to help."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:53:54.854Z",
+      "msg": "Name : Hassan Sardar\r\nEmail : hassansardar620@gmail.com\r\nPhone : 03067460561\r\nCRN-No or 0000 : 102848"
+    },
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:54:04.876Z",
+      "msg": "How may I help you"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:54:32.824Z",
+      "msg": "How to fill verification form?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "saira maqbool"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:57:42.148Z",
+      "msg": "online via your login"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "saira maqbool"
+      },
+      "type": "msg",
+      "time": "2022-06-30T09:57:43.494Z",
+      "msg": "Thank you for contacting Chat bot Team. In  future For your queries you may contact with our Chat  bot Team :)"
+    }
+  ],
+  "domain": "student.icap.org.pk"
+}
