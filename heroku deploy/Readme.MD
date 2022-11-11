@@ -1,4 +1,15 @@
 # Flask App deployment
+# Create Virutal Env
+* `phyton -m venv custome_name`
+    * activate in Window
+        * `.\custome_name\Scripts\activate`
+    * Linux
+        * `source custome_name/bin/activate`
+    * install custome packages:
+        * `pip install django numpy pandas scikit-learn pickle5`
+        
+
+
 # Create Flask App
     * app.py
 ```
